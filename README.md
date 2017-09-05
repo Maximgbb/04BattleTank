@@ -6,3 +6,4 @@ An open word tank fight with simple assets, terrain, AI and advaced control syst
 ## Lecture List
 * BT01 Intro, Notes & Assets
 * BT02 Game Design Document (GDD)
+* BT03 Setting Up a GitHub "Repo" 
